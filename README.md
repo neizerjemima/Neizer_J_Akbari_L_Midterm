@@ -7,7 +7,8 @@ TODO: Creating a one page app.
 
 ## Installation
 
-TODO: Describe the installation process
+TODO: Conflict creating
+! [alttext](img/conflict_screenshot.png "Logo Title Text 1")
 
 ## Usage
 
